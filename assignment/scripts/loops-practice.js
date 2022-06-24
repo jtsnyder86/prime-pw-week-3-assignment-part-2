@@ -55,7 +55,7 @@ let i = 0
 for( i of stars ){
   console.log( i );
 
-}; // this feels like it might be wrong or clunky... 
+}; 
 
 
 // 3. While loops  
